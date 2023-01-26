@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVlQ8BXbuqEO9LjVwTlwESgAAAAACAAAAAAAQZgAAAAEAACAAAAAbeIo7WDM32YQJimZyhWZHgJf+4AZ2y1Ti/TUuJTkYSAAAAAAOgAAAAAIAACAAAAD/AgwAWbH4qOBpHCmJSvKMGRJ/CRMga9/OUeHfhHMNxIAAAAAPj7Ri9Us1hrO1ss1fDz0isZ/AvFYLQq6B99ULpDG1SodEQ2tm+hI2N8z5+Mpv3NTqTACvbP8l0WWYuqZXTnpa3qIjRSMiIuLA/F/eOituthXwYZY/P78viZqogNUJhedUwicmXYrqdc0LNIkpK1v1Q73u5J9DJMkVwcesVqH2RUAAAABpoMTY17MA1k7ZhKIcHFaf3yxysBFfLRgfwwaJVEYXuFdOXZu5E0go4JVissfRzI16TjUqeNHVgiXJvyz62KrP</EncryptedPassword>
+    <History>True|2023-01-26T22:21:02.7755309Z;True|2023-01-26T17:04:49.4881240-05:00;True|2023-01-26T16:57:17.8796215-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="proveedores_backend.ApplicationDBContext">
+      <Value>Data Source=tcp:proveedores-backenddbserver456.database.windows.net,1433%3bInitial Catalog=proveedores_backend_db%3bUser Id=CHEJITO%40proveedores-backenddbserver456%3bPassword=91185402Jd%24</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
